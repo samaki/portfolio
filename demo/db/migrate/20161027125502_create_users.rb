@@ -7,6 +7,7 @@ tbl.string :column
 tbl.string :memo
 tbl.integer :price
 
+
     end
   end
 end
